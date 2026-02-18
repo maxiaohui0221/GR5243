@@ -18,7 +18,7 @@ Ensure you have Python installed along with the following libraries:
 pip install pandas numpy matplotlib seaborn xgboost scikit-learn
 ```
 
-## Team Members
+## Team Members(Team 7)
 Justine Dugger-Ades (gad2154),
 Freya Chen (yc4684),
 Xiaohui Ma (xm2352),
